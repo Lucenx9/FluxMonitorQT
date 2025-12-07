@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=FluxMonitorQT
+Comment=Network Connection Monitor
+Exec=bash -c "cd $(dirname %k) && ./run.sh"
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=System;Monitor;Network;
+Keywords=network;monitor;traffic;rust;qt;

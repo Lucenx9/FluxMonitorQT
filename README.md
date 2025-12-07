@@ -6,6 +6,8 @@
 
 **FluxMonitorQT** is a modern, high-performance network connection monitor built with **Rust** and **Qt5**. It provides real-time visibility into active network connections, process associations, and bandwidth usage with a sleek, native interface.
 
+![FluxMonitorQT Screenshot](screenshot.png)
+
 ## 🚀 Features
 
 *   **Real-time Monitoring**: Live tracking of TCP and UDP connections.
