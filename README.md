@@ -42,13 +42,6 @@ We provide a helper script to ensure the correct Qt version is linked:
 ./build.sh
 ```
 
-### Install Desktop Icon
-To add FluxMonitorQT to your system application menu:
-
-```bash
-./install.sh
-```
-
 ## 🖥️ Usage
 
 To launch the application:
