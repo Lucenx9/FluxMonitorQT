@@ -1,0 +1,25 @@
+[package]
+name = "flux_monitor_qt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Qt Integration
+qmetaobject = "0.2"
+cpp = "0.5"
+cstr = "0.2"
+
+# System Information & Monitoring
+sysinfo = "0.30"
+procfs = "0.16"
+
+# Utilities
+crossbeam-channel = "0.5"
+once_cell = "1.19"
+env_logger = "0.10"
+log = "0.4"
+chrono = "0.4"
+
+[build-dependencies]
+cpp_build = "0.5"
+pkg-config = "0.3"
